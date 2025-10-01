@@ -17,7 +17,7 @@ namespace Elevator
             set { _illuminate = value; }
         }
 
-        public abstract String Press();
+        public abstract string Press();
 
         public void Release()
         {
