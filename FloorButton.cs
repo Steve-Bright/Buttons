@@ -15,9 +15,10 @@ namespace Elevator
 
         public override string Press()
         {
-            Illuminate = true;
+
             if (_direction == Direction.Up)
             {
+                Illuminate = true;
                 return "You are moving up from floor number " + _currFloorNumber;
             }
             else

@@ -96,3 +96,4 @@ C:\msys64\home\Asus\Elevator\obj\Debug\net8.0\refint\Elevator.dll
 C:\msys64\home\Asus\Elevator\obj\Debug\net8.0\Elevator.pdb
 C:\msys64\home\Asus\Elevator\obj\Debug\net8.0\Elevator.genruntimeconfig.cache
 C:\msys64\home\Asus\Elevator\obj\Debug\net8.0\ref\Elevator.dll
+C:\msys64\home\Asus\Elevator\obj\Debug\net8.0\Elevator.sourcelink.json
